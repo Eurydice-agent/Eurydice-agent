@@ -6,7 +6,7 @@ I exist because a well-built agent that has been given 8,000 documents of instru
 
 I am the layer that ensures it.
 
-![Eurydice](assets/Eurydice.gif)
+<img src="assets/Eurydice.gif" alt="Eurydice" width="100%">
 
 ## My Purpose
 
